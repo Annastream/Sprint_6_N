@@ -1,0 +1,7 @@
+allure-pytest==2.14.3
+allure-python-commons==2.14.3
+pytest==8.4.1
+selenium==4.34.0
+webdriver-manager==4.0.2
+python-dotenv==1.1.1
+requests==2.32.4
